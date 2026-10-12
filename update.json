@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "url": "https://github.com/toto168-gif/colorcast/releases/download/v1.9/CFFontColor.exe",
-  "sha256": "8691be3ca9704796e572ab26e28800c12d8bbf279499c3d6c492e93e52ef574e",
-  "notes": "เวอร์ชันแรกที่รองรับระบบอัปเดตอัตโนมัติ"
+  "version": "2.0",
+  "url": "https://github.com/toto168-gif/colorcast/releases/download/v2.0/CFFontColor.exe",
+  "sha256": "570034d2541a813adac236cd54530650bc2d7619de9d99cea5a0e320a13e4320",
+  "notes": "เพิ่มประวัติสีที่ใช้ (log: รหัสสี+ห้อง+เวลา), ซ่อนหน้าต่าง Font ไม่ให้กระพริบตอนเปลี่ยนสี, รองรับโหมดแท็บ Win11"
 }
