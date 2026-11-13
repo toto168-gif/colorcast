@@ -1,6 +1,6 @@
 {
-  "version": "2.4",
-  "url": "https://github.com/toto168-gif/colorcast/releases/download/v2.4/CFFontColor.exe",
-  "sha256": "7391c394d7a83a2324eec1c0aa7ff33f91aedbcb56fe1d2cae57b58da641763a",
-  "notes": "เพิ่มปุ่มตรวจอัปเดตเอง (กดเช็กได้เลย ไม่ต้องปิด-เปิดโปรแกรม)"
+  "version": "2.5",
+  "url": "https://github.com/toto168-gif/colorcast/releases/download/v2.5/CFFontColor.exe",
+  "sha256": "bac4fe726b654f30362e3b1125ca311860630df557c7060a316c74a34866c093",
+  "notes": "แก้ระบบอัปเดตให้เด้งจริง (เวอร์ชันก่อนหน้าบางตัวไม่เช็ก/ไม่เด้ง) + โหลดห้องอัตโนมัติตอนเปิดโปรแกรม"
 }
